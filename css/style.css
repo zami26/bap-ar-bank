@@ -1,0 +1,29 @@
+.headline {
+    color: yellowgreen;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.heading-part {
+    color: rgb(233, 192, 10);
+}
+
+#form-container {
+    background-color: rgb(6, 112, 107);
+    padding: 30px 0;
+    margin: 0 100px;
+}
+
+.log-in-from {
+    margin: 0 400px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form {
+    margin: 10px 0;
+    font-size: larger;
+    font-weight: 600;
+}
